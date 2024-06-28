@@ -1,0 +1,8 @@
+bin
+obj
+
+# Ignore all .env files
+**/*.env
+
+# Ignore .venv directory
+.venv/
